@@ -1,0 +1,134 @@
+
+
+<section class="detalhes-novas-requisicoes">
+<div class="card-novas-requisicoes">
+<div class="barra-default-layout">
+<div>&nbsp;</div>
+<h4>DIREITO ANIMAL</h4>
+</div>
+<div>
+<div><img src="../../../files/biblioteca/novasaquisicoes/2022/junho/capa01.jpg" alt="" /></div>
+<div>
+<p>591.615:34 A282d 2022</p>
+<p>AGUIAR, Jade Lagune Lanzieri. <strong>Direito dos animais sob os aspectos da guarda compartilhada e dano moral em caso de les&atilde;o do animal.</strong> 2. ed. Rio de Janeiro: Lumen Juris, 2022. 134 p.</p>
+</div>
+</div>
+</div>
+<div class="card-novas-requisicoes">
+<div class="barra-default-layout">
+<div>&nbsp;</div>
+<h4>DIREITO CIVIL</h4>
+</div>
+<div>
+<div><img src="../../../files/biblioteca/novasaquisicoes/2022/junho/capa02.jpg" alt="" /></div>
+<div>
+<p>347 E24 2021</p>
+<p>SILVA, Joseane Suzart Lopes da (Coord.); FREITAS, J&uacute;lia Suzart de (Org.). <strong>Eduardo Esp&iacute;nola e o direito civil contempor&acirc;neo:</strong> relev&acirc;ncia hist&oacute;rica do jurista baiano para a compreens&atilde;o de importantes institutos atuais. Salvador: Paginae, 2021. 281 p.</p>
+</div>
+</div>
+</div>
+<div class="card-novas-requisicoes">
+<div class="barra-default-layout">
+<div>&nbsp;</div>
+<h4>DIREITO CONSTITUCIONAL</h4>
+</div>
+<div>
+<div><img src="../../../files/biblioteca/novasaquisicoes/2022/junho/capa03.jpg" alt="" /></div>
+<div>
+<p>342.722 S237d 2022</p>
+<p>SANTOS, Carlos Eduardo Ferreira dos. <strong>O direito &agrave; igualdade:</strong> uma vis&atilde;o geral. Porto Alegre: Livraria do Advogado, 2022. 254 p.</p>
+</div>
+</div>
+</div>
+<div class="card-novas-requisicoes">
+<div class="barra-default-layout">
+<div>&nbsp;</div>
+<h4>DIREITO CONSTITUCIONAL</h4>
+</div>
+<div>
+<div><img src="../../../files/biblioteca/novasaquisicoes/2022/junho/capa04.jpg" alt="" /></div>
+<div>
+<p>342(81) R196i 2022</p>
+<p>RANGEL, Gabriel Dolabela de Lima Raemy. <strong>Uma introdu&ccedil;&atilde;o ao direito constitucional brasileiro.</strong> 2. ed. Rio de Janeiro, RJ: Lumen Juris, 2022. 179 p.</p>
+</div>
+</div>
+</div>
+<div class="card-novas-requisicoes">
+<div class="barra-default-layout">
+<div>&nbsp;</div>
+<h4>DIREITO DO TRABALHO</h4>
+</div>
+<div>
+<div><img src="../../../files/biblioteca/novasaquisicoes/2022/junho/capa05.jpg" alt="" /></div>
+<div>
+<p>331:343.352 P376c 2020</p>
+<p>PEGO, Rafael Foresti. <strong>Corrup&ccedil;&atilde;o laboral:</strong> o fen&ocirc;meno corruptivo nas rela&ccedil;&otilde;es de trabalho. Bras&iacute;lia, DF: ESMPU, 2020. 162 p.</p>
+</div>
+</div>
+</div>
+<div class="card-novas-requisicoes">
+<div class="barra-default-layout">
+<div>&nbsp;</div>
+<h4>DIREITO DO TRABALHO</h4>
+</div>
+<div>
+<div><img src="../../../files/biblioteca/novasaquisicoes/2022/junho/capa06.jpg" alt="" /></div>
+<div>
+<p>349.2 D442 2021</p>
+<p>SILVA NETO, Manoel Jorge e (Org.). <strong>Desafios &agrave; autonomia negocial coletiva:</strong> estudos em homenagem ao Professor Jos&eacute; Augusto Rodrigues Pinto. Bras&iacute;lia: ESMPU, 2021. 382 p.</p>
+</div>
+</div>
+</div>
+<div class="card-novas-requisicoes">
+<div class="barra-default-layout">
+<div>&nbsp;</div>
+<h4>DIREITO E TECNOLOGIA</h4>
+</div>
+<div>
+<div><img src="../../../files/biblioteca/novasaquisicoes/2022/junho/capa07.jpg" alt="" /></div>
+<div>
+<p>34:004.8 I58 2021</p>
+<p>LUNARDI, Fabr&iacute;cio Castagna (Coord.); CLEMENTINO, Marco Bruno Miranda (Coord.). <strong>Inova&ccedil;&atilde;o judicial:</strong> fundamentos e pr&aacute;ticas para uma jurisdi&ccedil;&atilde;o de alto impacto. Bras&iacute;lia: ENFAM, 2021. 510 p.</p>
+</div>
+</div>
+</div>
+<div class="card-novas-requisicoes">
+<div class="barra-default-layout">
+<div>&nbsp;</div>
+<h4>DIREITO PREVIDENCI&Aacute;RIO</h4>
+</div>
+<div>
+<div><img src="../../../files/biblioteca/novasaquisicoes/2022/junho/capa08.jpg" alt="" /></div>
+<div>
+<p>368:347.918 G172p 2020</p>
+<p>GALLO, Ronaldo Guimar&atilde;es. <strong>Previd&ecirc;ncia privada e arbitragem.</strong> Salvador: JusPodivm, 2020. 287 p.</p>
+</div>
+</div>
+</div>
+<div class="card-novas-requisicoes">
+<div class="barra-default-layout">
+<div>&nbsp;</div>
+<h4>DIREITO PROCESSUAL CIVIL</h4>
+</div>
+<div>
+<div><img src="../../../files/biblioteca/novasaquisicoes/2022/junho/capa09.jpg" alt="" /></div>
+<div>
+<p>347.91/.95 N384 2020</p>
+<p>CABRAL, Antonio do Passo (Coord.); NOGUEIRA, Pedro Henrique Pedrosa (Coord.). <strong>Neg&oacute;cios processuais.</strong> Salvador: JusPodivm, 2020. v. 2. 586 p.</p>
+</div>
+</div>
+</div>
+<div class="card-novas-requisicoes">
+<div class="barra-default-layout">
+<div>&nbsp;</div>
+<h4>DIREITO TRIBUT&Aacute;RIO</h4>
+</div>
+<div>
+<div><img src="../../../files/biblioteca/novasaquisicoes/2022/junho/capa10.jpg" alt="" /></div>
+<div>
+<p>347.786 M311c 2021</p>
+<p>MARANH&Atilde;O JUNIOR, Magno de Aguiar. <strong>Condecine e poder regulamentar:</strong> um ensaio sobre a infra&ccedil;&atilde;o regulat&oacute;ria. Rio de Janeiro: Lumen Juris, 2021. 218 p.</p>
+</div>
+</div>
+</div>
+</section>
